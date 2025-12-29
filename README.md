@@ -2,6 +2,7 @@
 
 > **RedTeam Barranquilla** - Automating penetration testing using Claude Code AI agents
 
+<a href="https://redteambq.co/"><img src="assets/redteam-baq.jpeg" alt="RedTeam Barranquilla" height="28"></a> [![RedTeam Barranquilla](https://img.shields.io/badge/RedTeam-Barranquilla-black)](https://redteambq.co/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Powered-blueviolet?logo=anthropic)](https://claude.ai/code)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Ready-brightgreen?logo=hackthebox)](https://www.hackthebox.com/)
@@ -304,13 +305,27 @@ This tool is designed for:
 
 ## Community
 
-**RedTeam Barranquilla** - Security research and ethical hacking community.
+<p align="center">
+  <a href="https://redteambq.co/">
+    <img src="assets/redteam-baq.jpeg" alt="RedTeam Barranquilla" width="150">
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@redteambq-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/redteambq/)
+<p align="center">
+  <strong>RedTeam Barranquilla</strong> - Security research and ethical hacking community
+</p>
 
-- Focus: Penetration testing, CTF challenges, security automation
-- Location: Barranquilla, Colombia
-- Instagram: [@redteambq](https://www.instagram.com/redteambq/)
+<p align="center">
+  <a href="https://redteambq.co/">
+    <img src="https://img.shields.io/badge/Website-redteambq.co-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.instagram.com/redteambq/">
+    <img src="https://img.shields.io/badge/Instagram-@redteambq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+- **Focus**: Penetration testing, CTF challenges, security automation
+- **Location**: Barranquilla, Colombia
 
 ---
 
