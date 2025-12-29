@@ -1,0 +1,37 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+agents/redteam_agent/output/*.txt
+agents/redteam_agent/output/*.json
+agents/redteam_agent/sessions/*.json
+
+# Reports (generated)
+reports/*.md
+reports/*.html
+reports/*.json
+
+# Wordlists (too large for git)
+wordlists/
+
+# Credentials (never commit)
+*.psk
+*.hash
+credentials.txt
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Temporary files
+*.tmp
+*.bak
